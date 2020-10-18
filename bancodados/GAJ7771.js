@@ -1,0 +1,1 @@
+module.exports = {"placa":"GAJ-7771","chassi":"asdhasudhasudhuashdsadhassdasd","renavam":"sdhaushduasudhashduasdhuasd","modelo":"ecosporta","marca":"FORDxaa","ano":"2020"}

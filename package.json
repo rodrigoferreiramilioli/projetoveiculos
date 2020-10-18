@@ -1,0 +1,37 @@
+{
+  "name": "projetoveiculos",
+  "version": "1.0.0",
+  "description": "veiculoscrud",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigoferreiramilioli/projetoveiculos.git"
+  },
+  "author": "Rodrigo Milioli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigoferreiramilioli/projetoveiculos/issues"
+  },
+  "homepage": "https://github.com/rodrigoferreiramilioli/projetoveiculos#readme",
+  "dependencies": {
+    "ajv": "^6.12.6",
+    "ajv-errors": "^1.0.1",
+    "body-parser": "^1.19.0",
+    "chai-http": "^4.3.0",
+    "file-system": "^2.2.2",
+    "fs": "0.0.1-security",
+    "minimist": "^1.2.5",
+    "mocha": "^8.2.0",
+    "moment-timezone": "^0.5.31",
+    "mongoose": "^5.10.9",
+    "redis": "^3.0.2",
+    "redis-cli": "^2.0.0",
+    "redis-server": "^1.2.2",
+    "restify": "^8.5.1",
+    "restify-errors": "^8.0.2",
+    "swagger": "^0.7.5"
+  }
+}
